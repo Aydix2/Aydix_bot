@@ -1,0 +1,4 @@
+pyTelegramBotAPI
+requests
+openai
+Add requirements.txt
